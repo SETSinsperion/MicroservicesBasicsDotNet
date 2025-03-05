@@ -1,7 +1,7 @@
 # MICROSERVICES BASICS
 ----------------------
 
-This is a project with the basics about working with micro-services with .NET with docker, creating images, forwarding with their containers storing the data in a Microsoft SqlServer container volume.
+This is a project with the basics about working with micro-services with .NET with docker, creating images, forwarding with their containers, and storing the data in a Microsoft SqlServer container volume.
 
 > All the credits to InfoToolsSV:
 - Tutorial: https://youtu.be/3ftI26leOzA?si=idaZZHJ1nRF6LTTn
@@ -32,7 +32,7 @@ $> dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 
 Once you created the project, enter to the project and open the Program.cs file, and write all that's under the WARNING comments:
 
-````csharp
+```csharp
 using System.Globalization;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
