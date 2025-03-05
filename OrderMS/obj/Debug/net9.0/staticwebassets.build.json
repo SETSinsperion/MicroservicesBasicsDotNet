@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hSf7dghwoBwJpZCSbXpEmEk6C8qqrftV8YZYVnhRjmY=",
+  "Source": "OrderMS",
+  "BasePath": "_content/OrderMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
