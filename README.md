@@ -188,5 +188,5 @@ ConnectionStrings__DefaultConnection[Microservice2]="Server=sqlserver_db;Databas
 
 # SQL SERVER CONTAINER
 SA_PASSWORD="sa_pass"
-ACCEPT_EULA="Y"`
+ACCEPT_EULA="Y"
 ```
